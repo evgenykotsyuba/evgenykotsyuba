@@ -46,9 +46,9 @@ My professional interests are quite broad and include software architecture, net
 | I'm open for mentorship and consulting.     | Я открыт для наставничества и консалтинга.                          |
 | Drop me a PM, if you think I can be useful. | Напишите мне в личку, если Вы думаете, что я могу быть Вам полезен. |
 
-> [<img align="left" alt="eMail" width="22px" src="./img/email.svg" />][eMail]
-> [<img align="left" alt="Telegram" width="22px" src="./img/telegram.svg" />][Telegram]
-> [<img align="left" alt="LinkedIn" width="22px" src="./img/linkedin.svg" />][linkedin]
+> [<img align="left" alt="eMail" width="22px" src="https://raw.githubusercontent.com/evgenykotsyuba/evgenykotsyuba/0c4822effe69143af5cc862ab2ff2068c9ac2aee/img/email.svg" />][eMail]
+> [<img align="left" alt="Telegram" width="22px" src="https://raw.githubusercontent.com/evgenykotsyuba/evgenykotsyuba/0c4822effe69143af5cc862ab2ff2068c9ac2aee/img/telegram.svg" />][Telegram]
+> [<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/evgenykotsyuba/evgenykotsyuba/0c4822effe69143af5cc862ab2ff2068c9ac2aee/img/linkedin.svg" />][linkedin]
 
 > [eMail]: mailto:evgeny.kotsyuba@gmail.com
 > [Telegram]: https://t.me/evgeny_kotsyuba
