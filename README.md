@@ -1,6 +1,6 @@
 # (ENG) Hi there! My name is Evgeny Kotsyuba
 
-I’m a CIO, mentor, IT infrastructure architect, taking part of - "DevOps, automation, cloud and hybrid infrastructure, web, mobile-android, ERP-1C", since 1995. In projects I have extensive experience working with a remote team, can make decisions and prioritize. Currently working in an enterprise holding. From time to time open for mentorship and consulting.
+I’m a CIO, mentor, IT infrastructure architect, taking part of - "DevOps, automation, cloud and hybrid infrastructure, web, mobile-android, ERP-1C", since 1995. In projects I have extensive experience working with remote team, I can make decisions and prioritize. Currently working in an enterprise holding. From time to time open for mentorship and consulting.
 
 My professional interests are quite broad and include software architecture, network and data center architecture, team management, project management, just to name a few. My working preferences are maximalism and quality. I also have knowledge of Python development.
 
